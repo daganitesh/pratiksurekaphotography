@@ -836,7 +836,7 @@ Primary use:	Showcase Portfolio
 	#logo img {
 		display: block;
 		height: 40px;
-		width: auto;
+		width: 40px;
 		-webkit-transition: opacity 0.2s ease-in-out;
 		transition: opacity 0.2s ease-in-out;
 	}

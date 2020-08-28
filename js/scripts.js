@@ -615,8 +615,8 @@ Function FullPage
 						$('footer').addClass('visible');
 						TweenMax.to($(".socials-text, .copyright"), 0.4, {force3D:true, opacity:1, delay:0.2, ease:Power1.easeOut});		
 					} else { 
-						$('footer').removeClass('visible');
-						TweenMax.to($(".socials-text, .copyright"), 0.4, {force3D:true, opacity:0, delay:0, ease:Power1.easeOut});
+						//$('footer').removeClass('visible');
+						//TweenMax.to($(".socials-text, .copyright"), 0.4, {force3D:true, opacity:0, delay:0, ease:Power1.easeOut});
 					}
 				},
 							
