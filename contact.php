@@ -37,7 +37,7 @@ if(get_magic_quotes_gpc()) {
 // Example $address = "joe.doe@yourdomain.com";
 
 //$address = "example@themeforest.net";
-$address = "fgpatrick2002@gmail.com,matanasescu@gmail.com";
+$address = "pratiksurekaphotography@gmail.com";
 
 
 // Configuration option.
@@ -77,6 +77,6 @@ if(mail($address, $e_subject, $msg, $headers)) {
 
 } else {
 
-	echo 'ERROR!';
+	echo 'ERROR! Please Drop us an email on below mentioned address. Sorry for Inconvenience ';
 
 }

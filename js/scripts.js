@@ -19,7 +19,7 @@ $(document).ready(function() {
 	ContactForm();
 	CollagePlus();
 	PageShare();
-	ContactMap();	
+	//ContactMap();	
 });
 
 function getWindowInnerWidth() { return $(window).innerWidth() }
@@ -515,7 +515,7 @@ Function Ajax Load
 				ContactForm();
 				CollagePlus();
 				PageShare();
-				ContactMap();		
+				//ContactMap();		
 				
 				
 				if( !transitionsSupported() ) isAnimating = false;

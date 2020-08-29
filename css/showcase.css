@@ -393,8 +393,19 @@
 	.section-image, .section-image-mirror {
 		-webkit-transform: translateX(0px)!important;
 		transform: translateX(0px)!important;
+		background-size: contain;
 	}
-	
+	.wedding{
+		background-size: contain;
+	}
+
+	.img-split::after{
+		background: none;
+	}
+
+	.no-bg::after{
+		background: none;
+	}
 	.section-shadow {
 		display:none;
 	}
