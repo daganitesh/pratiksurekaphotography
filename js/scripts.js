@@ -1229,7 +1229,7 @@ Function Page Share
 		$("#share").jsSocials({
             showLabel: false,
     		showCount: false,
-    		shares: ["facebook", "twitter", "googleplus", "pinterest"]
+    		shares: ["facebook", "twitter", "whatsapp", "pinterest"]
         });
 		
 	}//End PageShare

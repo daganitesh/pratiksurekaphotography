@@ -103,7 +103,7 @@
 		z-index:0;
 		padding:0;
 		background-repeat:no-repeat;
-		background-position:center center;
+		background-position:revert;
 		box-sizing:border-box;
 		display:table-cell;
 		vertical-align:middle;
@@ -131,7 +131,7 @@
 		z-index:0;
 		padding:0;
 		background-repeat:no-repeat;
-		background-position:center center;
+		background-position:revert;
 		box-sizing:border-box;
 		display:table-cell;
 		vertical-align:middle;
